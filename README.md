@@ -4,7 +4,7 @@ This repo contains my learning notes and code experiments in **Machine Learning 
 Organized by topic for quick reference.  
 
 ## 📂 Contents
-- Pandas
+- [Pandas](Pandas_Nb.ipynb/)
 - Matplotlib
 - Scikit-Learn
 - TensorFlow
