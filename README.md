@@ -4,7 +4,7 @@ This repo contains my learning notes and code experiments in **Machine Learning 
 Organized by topic for quick reference.  
 
 ## 📂 Contents
-- [Pandas](Notebooks/Pandas_Notebook.ipynb/)
+- [Pandas](https://github.com/G-Prakhar/Basic_ML/blob/Notebooks/Pandas_Notebook.ipynb/)
 - Matplotlib
 - Scikit-Learn
 - TensorFlow
